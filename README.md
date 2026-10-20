@@ -6,10 +6,10 @@
 
 **We turn ideas into useful software and build for the modern web.**
 
-[![Website](https://img.shields.io/badge/Website-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.irnexateam.workers.dev/)
+[![Website](https://img.shields.io/badge/Website-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.irnexa.workers.dev/)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20our%20channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irnexateam)
 [![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@irnexateam)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irnexateam)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irnexa)
 
 </div>
 
